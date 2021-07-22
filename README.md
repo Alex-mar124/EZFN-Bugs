@@ -1,2 +1,5 @@
-# EZFN-Bugs
-A place to report bugs you have with ezfn!
+# EZFN Bug's
+
+### Hey 👋 Got A Bug With EZFN? Report It Here!
+
+### Info 
