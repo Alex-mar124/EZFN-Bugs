@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for EZFN
 title: ''
-labels: ''
-assignees: ''
+labels: Enhancement
+assignees: Alex-mar124
 
 ---
 
